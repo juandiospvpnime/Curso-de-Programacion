@@ -28,17 +28,3 @@ while contador < 5:
     print(f"Contador: {contador}")
     contador += 1  # Incrementa el contador en 1
 # Nota: Asegúrate de que la condición eventualmente se vuelva falsa para evitar un bucle infinito.
-
-
-
-# Bucle while con una condición que se vuelve falsa
-contador = 0
-while contador < 5:
-    print(f"Contador: {contador}")
-    contador += 1  # Incrementa el contador en 1
-# Nota: Asegúrate de que la condición eventualmente se vuelva falsa para evitar un bucle infinito.  
-
-
-
-
-
